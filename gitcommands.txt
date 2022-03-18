@@ -1,0 +1,15 @@
+Local
+======
+git init
+git status
+git add .
+git commit -m "comment"
+git log
+
+
+
+GitHub
+=======
+git remote add origin https://github.com/emvanderson1234/BA-QA.git
+git branch -M main
+git push -u origin main
